@@ -1,0 +1,46 @@
+-- Table: public.median_earnings_age_major
+
+-- DROP TABLE IF EXISTS public.median_earnings_age_major;
+
+CREATE TABLE IF NOT EXISTS public.median_earnings_age_major
+(
+name_major character varying COLLATE pg_catalog."default" DEFAULT NULL::character varying,
+total integer,
+years_25_to_39 integer,
+computers_mathematics_and_statistics_25_to_39 integer,
+biological_agricultural_and_environmental_sciences_25_to_39 integer,
+physical_and_related_sciences_25_to_39 integer,
+psychology_25_to_39 integer,
+social_sciences_25_to_39 integer,
+engineering_25_to_39 integer,
+multidisciplinary_studies_25_to_39 integer,
+science_and_engineering_related_fields_25_to_39 integer,
+business_25_to_39 integer,
+education_25_to_39 integer,
+literature_and_languages_25_to_39 integer,
+liberal_arts_and_history_25_to_39 integer,
+visual_and_performing_arts_25_to_39 integer,
+communications_25_to_39 integer,
+other_25_to_39 integer,
+years_40_to_64 integer,
+computers_mathematics_and_statistics_40_to_64 integer,
+biological_agricultural_and_environmental_sciences_40_to_64 integer,
+physical_and_related_sciences_40_to_64 integer,
+psychology_40_to_64 integer,
+social_sciences_40_to_64 integer,
+engineering_40_to_64 integer,
+multidisciplinary_studies_40_to_64 integer,
+science_and_engineering_related_fields_40_to_64 integer,
+business_40_to_64 integer,
+education_40_to_64 integer,
+literature_and_languages_40_to_64 integer,
+liberal_arts_and_history_40_to_64 integer,
+visual_and_performing_arts_40_to_64 integer,
+communications_40_to_64 integer,
+other_40_to_64 integer
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.median_earnings_age_major
+    OWNER to postgres;

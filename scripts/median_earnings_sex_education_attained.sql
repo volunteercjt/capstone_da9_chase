@@ -1,0 +1,2 @@
+SELECT *
+FROM median_earnings_sex_education_attained

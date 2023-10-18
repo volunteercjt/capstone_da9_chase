@@ -544,11 +544,11 @@
       <simple-id uuid='{364D090E-1F90-4434-8341-D4CC6BCB0F95}' />
     </worksheet>
   </worksheets>
-  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+  <windows source-height='37'>
     <window class='worksheet' name='Sheet 1'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -566,7 +566,7 @@
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='200'>
             <card param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:Degree:nk]' type='filter' />
             <card param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:State:nk]' type='filter' />
             <card param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:Age_Range:nk]' type='filter' />
@@ -595,25 +595,25 @@
     <window class='worksheet' maximized='true' name='Sheet 2'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='2147483647'>
+          <strip size='38'>
             <card type='columns' />
           </strip>
-          <strip size='2147483647'>
+          <strip size='38'>
             <card type='rows' />
           </strip>
-          <strip size='2147483647'>
+          <strip size='38'>
             <card type='title' />
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='200'>
             <card param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:Degree:nk]' type='filter' />
             <card param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:State:nk]' type='filter' />
             <card pane-specification-id='0' param='[federated.10hhbj408x4qw51bz55sk1pr57u5].[none:State:nk]' type='color' />

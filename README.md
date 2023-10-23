@@ -58,4 +58,8 @@ Challenges will be narrowing the scope of the question down to something managea
 
 ## Acknowledgements
 
+Endless kudos and thanks to my instructors Dibran Rexhepi, Olariche Obi, Alex Wright, and Sobiya K.  I greatly appreciate all the help on coding, dashboarding, and everything related to my overall approach.
+
+Big thanks to Ed Brown and AJ Grande for all their help and feedback as I put together my capstone project and presentation.  Their help bouncing ideas back and forth was invaluable.
+
 

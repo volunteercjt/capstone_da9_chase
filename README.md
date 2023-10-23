@@ -1,5 +1,3 @@
-# capstone_da9_chase
-
 # Value of a college eduation.
 Using data from the National Center Education Statistics and the Integrated Postsecondary Education Data System
 # Goals:
@@ -21,26 +19,19 @@ How much value is there in a college education?
 
 I found an article that talks about the median wages based on education attained (https://www.bls.gov/careeroutlook/2023/data-on-display/education-pays.htm).  I would like to dig a little deeper and see if there is a difference depending on the state you live in.  My starting point would be to define how much a college education costs in each state, the salary a person would earn with that degree in each state, and how long it would take to pay back student loans on that salary.  If possible, I will branch out from there and see if area of study makes a difference and if so, how much?  Furthermore, are some degrees a better value than others? 
 
-Data I have so far:
-1.	Data on the cost of college and the average tuition cost per student at over 6000 schools in the US.  This includes total cost, average amount spent, and average student loans taken out.
+Data being used:
+1.	Summary data on the amount of student loans at over 6000 schools in the US.
 2.	US census data comparing median earnings by age and Bachelor’s degree major.
 3.	US census data comparing median earnings by sex and education attained.
 
 Goals:
-1.	Define the average amount spent in each state.  I can get more granular if I choose to by comparing the following:
-a.	Average for in-state students vs. out-of-state students.
-b.	Average for private vs. public school costs
-2.	Graph median salary by degree in each state.
-3.	Determine the amount of time it would take to pay back student loans for each state.  
-4.	Are there some degrees that don’t make fiscal sense based on the amount of debt they require and the time it takes to pay them back?  How long does it take for those who graduate with bachelor’s or advanced degrees to “catch up” to people who entered the work force earlier in life?  Look at gross amount of money earned over time for those who enter the work force at various education levels including:
-a.	Some high school
-b.	High school graduate
-c.	Associate degree
-d.	Bachelor’s degree
-e.	Master’s degree
-f.	Doctorate or professional degree
-5.	I would like to create a dashboard that will display all this information with a slicer that will adjust for each state selected.
-
+1. Define the average amount of student loans spent in each state based on the amount of education pursued.  Use the calulations highlighted here (https://climbcredit.com/resources/finance-loans/how-to-calculate-monthly-loan-payments/) to determine the grand total adjusted for years of study and interest if paying back in 10 years.
+2. Compare the median salaries across the United States based on education attained.
+3. Determine if any overall trends among education and salary hold true across the US.
+4. Determine if a person's major has an effect on the salary they can expect to earn across the US.
+5. Dive deeper into the data and determine if there are some states where a person can expect to earn more or less based on education and major.
+6. Create a graph that displays the "Age of Profitability" that will describe the age in which a person's Gross Salary "catches up" to the gross salary they would make if they left high school and entered the work force at age 16.
+7. Create a Power BI dashboard that allows a user to explore the data set based on US State of interest and Bachelor's Degree major of interest.
 
 ## Known Issues / Challenges
 

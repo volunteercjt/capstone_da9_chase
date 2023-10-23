@@ -8,7 +8,7 @@ Expand analysis into graduate level education and professional degrees
 
 ## Contents
 [Motivation](#motivation)
-
+[Data Questions](#data-questions)
 # Motivation
 
 I care about education.  I feel that education is one area that helps level the socioeconomic playing field in the United States.  It provides a means for people to attain an economic status that is higher than that of their birth.  I feel extremely privileged, blessed, and lucky to live in a country where public education through high school is free and higher education is attainable for large parts of the population (associate degrees are free in TN).  Our system is far from perfect, but it has helped me further myself and my career.

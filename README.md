@@ -48,35 +48,28 @@ Challenges will be narrowing the scope of the question down to something managea
 ## Data Sources and Tools
 ### Data Sources
 ### Tools
+```
+contextily          1.3.0  
+geopandas           0.14.0  
+matplotlib          3.7.1  
+mpl_toolkits        NA  
+numpy               1.24.3  
+pandas              1.3.4  
+plotly              5.9.0  
+psycopg2            2.9.7 (dt dec pq3 ext lo64)  
+seaborn             0.12.2  
+session_info        1.0.0  
+sqlalchemy          1.4.39  
 
-Click to view session information
+IPython             8.12.2  
+jupyter_client      8.1.0  
+jupyter_core        5.3.0  
+jupyterlab          3.3.2  
+notebook            6.4.5  
 
------
-contextily          1.3.0
-geopandas           0.14.0
-matplotlib          3.7.1
-mpl_toolkits        NA
-numpy               1.24.3
-pandas              1.3.4
-plotly              5.9.0
-psycopg2            2.9.7 (dt dec pq3 ext lo64)
-seaborn             0.12.2
-session_info        1.0.0
-sqlalchemy          1.4.39
------
-
-Click to view modules imported as dependencies
-
------
-IPython             8.12.2
-jupyter_client      8.1.0
-jupyter_core        5.3.0
-jupyterlab          3.3.2
-notebook            6.4.5
------
-Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
-Windows-10-10.0.22621-SP0
------
+Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]  
+Windows-10-10.0.22621-SP0  
+```
 Session information updated at 2023-10-23 11:42
 
 ## Links to Power BI Dashboard and Video

@@ -15,6 +15,8 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 I care about education.  I feel that education is one area that helps level the socioeconomic playing field in the United States.  It provides a means for people to attain an economic status that is higher than that of their birth.  I feel extremely privileged, blessed, and lucky to live in a country where public education through high school is free and higher education is attainable for large parts of the population (associate degrees are free in TN).  Our system is far from perfect, but it has helped me further myself and my career.
 Education today is expensive.  It takes longer to pay back student loans now than in the past, and sometimes people end up not even using their degree.  So I often find my asking the question, “Is it worth it?”
 
+[Back to Contents](#contents)
+
 ## Data Questions
 
 How much value is there in a college education?
@@ -35,6 +37,8 @@ I found an article that talks about the median wages based on education attained
 6. Create a graph that displays the "Age of Profitability" that will describe the age in which a person's Gross Salary "catches up" to the gross salary they would make if they left high school and entered the work force at age 16.
 7. Create a Power BI dashboard that allows a user to explore the data set based on US State of interest and Bachelor's Degree major of interest.
 
+[Back to Contents](#contents)
+
 ## Known Issues and Challenges
 
 Challenges will be narrowing the scope of the question down to something manageable.  I would like to start with questions about the actual cost of college by state and contrast that with the median salary a person earns depending on their location and education attained.
@@ -44,6 +48,8 @@ Challenges will be narrowing the scope of the question down to something managea
 - I need to have an equation that defines how long it takes to pay back student loans.  There are calculators online that calculate this.  I can hopefully use the same equation that they do to define loan pay off time.
 - US census data is not arranged in an easily usable way.  I’ll probably have to change some column headers and data organization in order to use the data.
 - I removed Puerto Rico.  There were no other territories in my dataset like the Virgin Islands or American Samoa, and I could not use Plotly to graph Puerto Rico data.  I decided to focus on only The 50 United States and Washington D.C..
+
+[Back to Contents](#contents)
 
 ## Data Sources and Tools
 ### Data Sources
@@ -75,7 +81,11 @@ Windows-10-10.0.22621-SP0
 ```
 Session information updated at 2023-10-23 11:42
 
+[Back to Contents](#contents)
+
 ## Links to Power BI Dashboard and Video
+
+[Back to Contents](#contents)
 
 ## Acknowledgements
 
@@ -83,4 +93,4 @@ Endless kudos and thanks to my instructors Dibran Rexhepi, Olariche Obi, Alex Wr
 
 Big thanks to Ed Brown and AJ Grande for all their help and feedback as I put together my capstone project and presentation.  Their help bouncing ideas back and forth was invaluable.
 
-
+[Back to Contents](#contents)

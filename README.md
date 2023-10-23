@@ -93,4 +93,8 @@ Endless kudos and thanks to my instructors Dibran Rexhepi, Olariche Obi, Alex Wr
 
 Big thanks to Ed Brown and AJ Grande for all their help and feedback as I put together my capstone project and presentation.  Their help bouncing ideas back and forth was invaluable.
 
+Thank you to Ashley Canino and Michael Frieh for all of their guidance during my job search.  Pivoting to a new career is not easy, but their valuable advice helped immensely.
+
+Thank you to my classmates!  The past 6 months was great getting to know everyone and learning from everyone.  Working in a group setting helped propel my data analytics knowledge forward much further than when I was going alone.  Thank you very much and all the best!
+
 [Back to Contents](#contents)

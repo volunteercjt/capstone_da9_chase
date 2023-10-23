@@ -8,7 +8,13 @@ Expand analysis into graduate level education and professional degrees
 
 ## Contents
 [Motivation](#motivation)  
-[Data Questions](#data-questions)
+[Data Questions](#data-questions)  
+[Known Issues and Challenges](#known-issues-and-challenges)  
+[Data Sources and Tools](#data-sources-and-tools)  
+[Links to Power BI Dashboard and Video](#links-to-power-bi-dashboard-and-video)  
+[Acknowledgements](#Acknowledgements)
+
+
 # Motivation
 
 I care about education.  I feel that education is one area that helps level the socioeconomic playing field in the United States.  It provides a means for people to attain an economic status that is higher than that of their birth.  I feel extremely privileged, blessed, and lucky to live in a country where public education through high school is free and higher education is attainable for large parts of the population (associate degrees are free in TN).  Our system is far from perfect, but it has helped me further myself and my career.
@@ -34,7 +40,7 @@ Goals:
 6. Create a graph that displays the "Age of Profitability" that will describe the age in which a person's Gross Salary "catches up" to the gross salary they would make if they left high school and entered the work force at age 16.
 7. Create a Power BI dashboard that allows a user to explore the data set based on US State of interest and Bachelor's Degree major of interest.
 
-## Known Issues / Challenges
+## Known Issues and Challenges
 
 Challenges will be narrowing the scope of the question down to something manageable.  I would like to start with questions about the actual cost of college by state and contrast that with the median salary a person earns depending on their location and education attained.
 - I should not have to request data or an API key.  It should be contained on the US census data website and National Center for Education Statistics (NCES) website.
@@ -43,4 +49,13 @@ Challenges will be narrowing the scope of the question down to something managea
 - I need to have an equation that defines how long it takes to pay back student loans.  There are calculators online that calculate this.  I can hopefully use the same equation that they do to define loan pay off time.
 - US census data is not arranged in an easily usable way.  I’ll probably have to change some column headers and data organization in order to use the data.
 - I removed Puerto Rico.  There were no other territories in my dataset like the Virgin Islands or American Samoa, and I could not use Plotly to graph Puerto Rico data.  I decided to focus on only The 50 United States and Washington D.C..
+
+## Data Sources and Tools
+### Data Sources
+### Tools
+
+## Links to Power BI Dashboard and Video
+
+## Acknowledgements
+
 

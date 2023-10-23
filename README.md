@@ -15,7 +15,7 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 I care about education.  I feel that education is one area that helps level the socioeconomic playing field in the United States.  It provides a means for people to attain an economic status that is higher than that of their birth.  I feel extremely privileged, blessed, and lucky to live in a country where public education through high school is free and higher education is attainable for large parts of the population (associate degrees are free in TN).  Our system is far from perfect, but it has helped me further myself and my career.
 Education today is expensive.  It takes longer to pay back student loans now than in the past, and sometimes people end up not even using their degree.  So I often find my asking the question, “Is it worth it?”
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_
 
 ## Data Questions
 
@@ -37,7 +37,7 @@ I found an article that talks about the median wages based on education attained
 6. Create a graph that displays the "Age of Profitability" that will describe the age in which a person's Gross Salary "catches up" to the gross salary they would make if they left high school and entered the work force at age 16.
 7. Create a Power BI dashboard that allows a user to explore the data set based on US State of interest and Bachelor's Degree major of interest.
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_
 
 ## Known Issues and Challenges
 
@@ -49,7 +49,7 @@ Challenges will be narrowing the scope of the question down to something managea
 - US census data is not arranged in an easily usable way.  I’ll probably have to change some column headers and data organization in order to use the data.
 - I removed Puerto Rico.  There were no other territories in my dataset like the Virgin Islands or American Samoa, and I could not use Plotly to graph Puerto Rico data.  I decided to focus on only The 50 United States and Washington D.C..
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_
 
 ## Data Sources and Tools
 ### Data Sources
@@ -81,11 +81,11 @@ Windows-10-10.0.22621-SP0
 ```
 Session information updated at 2023-10-23 11:42
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_
 
 ## Links to Power BI Dashboard and Video
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_
 
 ## Acknowledgements
 
@@ -97,4 +97,4 @@ Thank you to Ashley Canino and Michael Frieh for all of their guidance during my
 
 Thank you to my classmates!  The past 6 months was great getting to know everyone and learning from everyone.  Working in a group setting helped propel my data analytics knowledge forward much further than when I was going alone.  Thank you very much and all the best!
 
-[Back to Contents](#contents)
+_[Back to Contents](#contents)_

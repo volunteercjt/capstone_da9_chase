@@ -47,7 +47,7 @@ Challenges will be narrowing the scope of the question down to something managea
 
 ## Data Sources and Tools
 ### Data Sources
-[NCES IPEDS](https://nces.ed.gov/ipeds/datacenter/InstitutionByGroup.aspx?sid=1e5f717f-95f4-4c4b-8c06-ef444c74c84d&rtid=5) for student loan data for each school.
+[NCES IPEDS](https://nces.ed.gov/ipeds/datacenter/InstitutionByGroup.aspx?sid=1e5f717f-95f4-4c4b-8c06-ef444c74c84d&rtid=5) for student loan data for each school.  
 [US Census Data Table Explorer](https://data.census.gov/table) for information of median salary based on education attained and other demographic data.
 
 ### Tools

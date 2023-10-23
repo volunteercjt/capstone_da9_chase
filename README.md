@@ -1,10 +1,5 @@
 # Value of a college eduation.
-Using data from the National Center Education Statistics and the Integrated Postsecondary Education Data System
-# Goals:
-Create a dashboard that allows a person to dig into state, degree, and salary
-# Stretch goals:
-Expand analysis into graduate level education and professional degrees
-# Link to Dashboard
+Using data from the National Center Education Statistics, Integrated Postsecondary Education Data System, and the US Census I aim to create a cost benefit analysis of higher education in the United States in 2022.
 
 ## Contents
 [Motivation](#motivation)  
@@ -26,12 +21,12 @@ How much value is there in a college education?
 
 I found an article that talks about the median wages based on education attained (https://www.bls.gov/careeroutlook/2023/data-on-display/education-pays.htm).  I would like to dig a little deeper and see if there is a difference depending on the state you live in.  My starting point would be to define how much a college education costs in each state, the salary a person would earn with that degree in each state, and how long it would take to pay back student loans on that salary.  If possible, I will branch out from there and see if area of study makes a difference and if so, how much?  Furthermore, are some degrees a better value than others? 
 
-Data being used:
+### Data being used:
 1.	Summary data on the amount of student loans at over 6000 schools in the US.
 2.	US census data comparing median earnings by age and Bachelor’s degree major.
 3.	US census data comparing median earnings by sex and education attained.
 
-Goals:
+### Goals:
 1. Define the average amount of student loans spent in each state based on the amount of education pursued.  Use the calulations highlighted here (https://climbcredit.com/resources/finance-loans/how-to-calculate-monthly-loan-payments/) to determine the grand total adjusted for years of study and interest if paying back in 10 years.
 2. Compare the median salaries across the United States based on education attained.
 3. Determine if any overall trends among education and salary hold true across the US.

@@ -76,10 +76,21 @@ jupyter_core        5.3.0
 jupyterlab          3.3.2  
 notebook            6.4.5  
 
-Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]  
-Windows-10-10.0.22621-SP0  
+Python 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+Windows-10-10.0.22621-SP0
+
+Session information updated at 2023-10-23 11:42  
 ```
-Session information updated at 2023-10-23 11:42
+```
+pgAdmin 4           Version 7.1
+```
+```
+Microsoft® Excel® for Microsoft 365         Version 2309
+```
+```
+Power BI            Version: 2.118.1063.0 64-bit (June 2023)
+```
+
 
 _[Back to Contents](#contents)_
 

@@ -3,20 +3,25 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 
 ## Contents
 [Motivation](#motivation)  
+[Findings](#findings)
 [Data Questions](#data-questions)  
 [Known Issues and Challenges](#known-issues-and-challenges)  
 [Data Sources and Tools](#data-sources-and-tools)  
 [Links to Power BI Dashboard and Video](#links-to-power-bi-dashboard-and-video)  
 [Acknowledgements](#Acknowledgements)
 
-# Findings
-
-
-
 # Motivation
 
 I care about education.  I feel that education is one area that helps level the socioeconomic playing field in the United States.  It provides a means for people to attain an economic status that is higher than that of their birth.  I feel extremely privileged, blessed, and lucky to live in a country where public education through high school is free and higher education is attainable for large parts of the population (associate degrees are free in TN).  Our system is far from perfect, but it has helped me further myself and my career.
 Education today is expensive.  It takes longer to pay back student loans now than in the past, and sometimes people end up not even using their degree.  So I often find my asking the question, “Is it worth it?”
+
+_[Back to Contents](#contents)_
+
+# Findings
+
+Education matters!  Salary goes up in general when a person gets more education.  However,  there are places where the increase in salary is low enough that the investment may not be as good as first thought.  Some locations like Alaska and North Dakota see people who did not graduate high school making a higher median salary than high school graduates.  Furthermore, some locations are associated with a modest increase in salary with education while others provide a more substantial increase.  Salary was highly dependent on major of study in every location.
+
+Pursuing education is a worthwhile investment.  However, some thought into the choice of major should be taken by potential students if salary is a concern after graduation.
 
 _[Back to Contents](#contents)_
 
@@ -52,6 +57,7 @@ Challenges will be narrowing the scope of the question down to something managea
 - I need to have an equation that defines how long it takes to pay back student loans.  There are calculators online that calculate this.  I can hopefully use the same equation that they do to define loan pay off time.
 - US census data is not arranged in an easily usable way.  I’ll probably have to change some column headers and data organization in order to use the data.
 - I removed Puerto Rico.  There were no other territories in my dataset like the Virgin Islands or American Samoa, and I could not use Plotly to graph Puerto Rico data.  I decided to focus on only The 50 United States and Washington D.C..
+- Power BI created some challenges.  Specifically, I needed 3 lines on my line graph to display simultaneously.  Working independently I found the solution in an online forum and applied it to my dashboard.
 
 _[Back to Contents](#contents)_
 

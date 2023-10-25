@@ -9,6 +9,9 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 [Links to Power BI Dashboard and Video](#links-to-power-bi-dashboard-and-video)  
 [Acknowledgements](#Acknowledgements)
 
+# Findings
+
+
 
 # Motivation
 

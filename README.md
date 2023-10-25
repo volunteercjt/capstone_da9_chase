@@ -27,6 +27,7 @@ I found an article that talks about the median wages based on education attained
 1.	Summary data on the amount of student loans at over 6000 schools in the US.
 2.	US census data comparing median earnings by age and Bachelor’s degree major.
 3.	US census data comparing median earnings by sex and education attained.
+4.	[Add an outline of which data files used.]
 
 ### Goals:
 1. Define the average amount of student loans spent in each state based on the amount of education pursued.  Use the calulations highlighted here (https://climbcredit.com/resources/finance-loans/how-to-calculate-monthly-loan-payments/) to determine the grand total adjusted for years of study and interest if paying back in 10 years.

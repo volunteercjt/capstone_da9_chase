@@ -3,7 +3,7 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 
 ## Contents
 [Motivation](#motivation)  
-[Findings](#findings)
+[Findings](#findings)  
 [Data Questions](#data-questions)  
 [Known Issues and Challenges](#known-issues-and-challenges)  
 [Data Sources and Tools](#data-sources-and-tools)  

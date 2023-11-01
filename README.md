@@ -7,7 +7,7 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 [Data Questions](#data-questions)  
 [Known Issues and Challenges](#known-issues-and-challenges)  
 [Data Sources and Tools](#data-sources-and-tools)  
-[Links to Power BI Dashboard and Video](#links-to-power-bi-dashboard-and-video)  
+[Links to Power BI Dashboard](#links-to-power-bi-dashboard)  
 [Acknowledgements](#Acknowledgements)
 
 # Motivation

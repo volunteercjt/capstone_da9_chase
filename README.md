@@ -3,7 +3,7 @@ Using data from the National Center Education Statistics, Integrated Postseconda
 
 ## Contents
 [Motivation](#motivation)  
-[Findings](#findings)  
+[Findings and Conclusions](#findings-and-conclusions)  
 [Data Questions](#data-questions)  
 [Known Issues and Challenges](#known-issues-and-challenges)  
 [Data Sources and Tools](#data-sources-and-tools)  
@@ -17,9 +17,11 @@ Education today is expensive.  It takes longer to pay back student loans now tha
 
 _[Back to Contents](#contents)_
 
-# Findings
+# Findings and Conclusions
 
-Education matters!  Salary goes up in general when a person gets more education.  However,  there are places where the increase in salary is low enough that the investment may not be as good as first thought.  Some locations like Alaska and North Dakota see people who did not graduate high school making a higher median salary than high school graduates.  Furthermore, some locations are associated with a modest increase in salary with education while others provide a more substantial increase.  Salary was highly dependent on major of study in every location.
+Education matters!  Salary goes up in general when a person gets more education.  However,  there are places where the increase in salary is low enough that the investment may not be as good as first thought.  Some locations like Alaska and North Dakota see people who did not graduate high school making a higher median salary than high school graduates.  A bachelor's degree in some states is a bad investment because it takes a long time to become profitable or in some cases it NEVER becomes profitable.  These situations are the exception not the rule.  However, it is important to be aware of the existence of these exceptions if you live in those states or plan a career in one of the less profitable majors.
+
+Furthermore, some locations are associated with a modest increase in salary with education while others provide a more substantial increase.  Salary was highly dependent on major of study in every location.
 
 Pursuing education is a worthwhile investment.  However, some thought into the choice of major should be taken by potential students if salary is a concern after graduation.
 
@@ -32,10 +34,13 @@ How much value is there in a college education?
 I found an article that talks about the median wages based on education attained (https://www.bls.gov/careeroutlook/2023/data-on-display/education-pays.htm).  I would like to dig a little deeper and see if there is a difference depending on the state you live in.  My starting point would be to define how much a college education costs in each state, the salary a person would earn with that degree in each state, and how long it would take to pay back student loans on that salary.  If possible, I will branch out from there and see if area of study makes a difference and if so, how much?  Furthermore, are some degrees a better value than others? 
 
 ### Data being used:
-1.	Summary data on the amount of student loans at over 6000 schools in the US.
-2.	US census data comparing median earnings by age and Bachelor’s degree major.
-3.	US census data comparing median earnings by sex and education attained.
-4.	[Add an outline of which data files used.]
+Data tables went through multiple iterations before landing on a final usable product.  My outline for each is below and follows this format (starting raw data --> end file)
+
+1.	Summary data on the amount of student loans at over 6000 schools in the US.  (Data_9-23-2023---178.csv --> Data_9-23-2023---178_CT2.csv)
+2.	US census data comparing median earnings by age and Bachelor’s degree major.  (ACSDT1Y2022.B15014-2023-09-24T024237.xlsx --> ACSDT1Y2022.B15014-2023-09-24T024237_lots_of_rows_CT1.csv)
+3.	US census data comparing median earnings by sex and education attained.  (ACSDT1Y2022.B20004-2023-09-24T024536.xlsx --> ACSDT1Y2022.B20004-2023-09-24T024536_lots_of_rows_CT1.csv)
+
+Further cleaning, organization, and calculations to create graphs and Power BI visualization were done using a combination of Python and Excel.
 
 ### Goals:
 1. Define the average amount of student loans spent in each state based on the amount of education pursued.  Use the calulations highlighted here (https://climbcredit.com/resources/finance-loans/how-to-calculate-monthly-loan-payments/) to determine the grand total adjusted for years of study and interest if paying back in 10 years.
@@ -104,7 +109,9 @@ Power BI            Version: 2.118.1063.0 64-bit (June 2023)
 
 _[Back to Contents](#contents)_
 
-## Links to Power BI Dashboard and Video
+## Links to Power BI Dashboard
+
+Power BI:  https://github.com/volunteercjt/capstone_da9_chase/blob/main/power_bi/capstone_visualization_06.pbix
 
 _[Back to Contents](#contents)_
 

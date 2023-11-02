@@ -1,4 +1,4 @@
-# Value of a college eduation.
+# Value of a college eduation
 Using data from the National Center Education Statistics, Integrated Postsecondary Education Data System, and the US Census I aim to create a cost benefit analysis of higher education in the United States in 2022.
 
 ## Contents
